@@ -1,4 +1,5 @@
 ---
+layout: default
 title: DE BG2DGX
 date: 2022-04-13 12:55:40
 categories:
