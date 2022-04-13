@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+---
+title: 我的无线电
+date: 2021-08-20 12:23:40
+categories:
+  - 业余无线电
+tags:
+  - 电台室
+  - 野外架台
+---
 
-You can use the [editor on GitHub](https://github.com/xanggiyan/ham/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 我的工作台  
+> ![我的工作台](https://cdn.jsdelivr.net/gh/xanggiyan/img@main/20191139.jpg)
+拍摄于2019年11月30日
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 楼顶天线
+> ![楼顶天线](https://cdn.jsdelivr.net/gh/xanggiyan/img@main/20191124.jpg)
+拍摄于2019年11月24日
 
-### Markdown
+### 参加BY2AA组织的"2020年双12通联活动"
+> ![BY2AA值守](https://cdn.jsdelivr.net/gh/xanggiyan/img@main/20201212.jpg)
+拍摄于2020年12月12日
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 太阳岛野外架台
+> ![太阳岛架台](https://cdn.jsdelivr.net/gh/xanggiyan/img@main/20200514.jpg)
+拍摄于2020年5月14日
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xanggiyan/ham/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
