@@ -16,7 +16,7 @@ tags:
 > ## **业余无线电** **B**级执照
 > ## 通联愉快,73!
 
-## E-mail:eboywit@gmail.com
+## E-mail: <eboywit@gmail.com>
 ## Page: [xanggiyan.me](https://xanggiyan.me/about/)
 
 > ## DE **BG2DGX**,My name is Xanggiyan,
