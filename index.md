@@ -10,15 +10,15 @@ tags:
 
 
 
-## 这里是BG2DGX,QTH 哈尔滨,黑龙江
-## 
+## 这里是操作员山岩,国际呼号**BG2DGX**,QTH 哈尔滨,黑龙江
+## **业余无线电** **B**级执照
 ## 通联愉快,73!
 
 ## E-mail:eboywit@gmail.com
 ## Page: https://xanggiyan.me/about/
 
 ## DE BG2DGX,QTH Harbin,Heilongjiang,China
-## 
+######
 
 
 ### 我的工作台  
