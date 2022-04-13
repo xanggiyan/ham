@@ -1,4 +1,6 @@
 ---
+title: DE BG2DGX
+date: 2022-04-13 12:55:40
 categories:
   - 业余无线电
 tags:
@@ -6,18 +8,17 @@ tags:
   - 野外架台
 ---
 
-title: DE BG2DGX
-date: 2022-04-13 12:55:40
 
-### 这里是BG2DGX,QTH 哈尔滨,黑龙江
-### 
-### 通联愉快,73!
 
-### E-mail:eboywit@gmail.com
-### Page:    xanggiyan.me/about
+## 这里是BG2DGX,QTH 哈尔滨,黑龙江
+## 
+## 通联愉快,73!
 
-### DE BG2DGX,QTH Harbin,Heilongjiang,China
-### 
+## E-mail:eboywit@gmail.com
+## Page: https://xanggiyan.me/about/
+
+## DE BG2DGX,QTH Harbin,Heilongjiang,China
+## 
 
 
 ### 我的工作台  
