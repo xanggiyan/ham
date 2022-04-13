@@ -1,5 +1,5 @@
 ---
-title: 我的无线电
+title: DE BG2DGX
 date: 2021-08-20 12:23:40
 categories:
   - 业余无线电
