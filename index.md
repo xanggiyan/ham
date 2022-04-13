@@ -17,7 +17,7 @@ tags:
 > ## 通联愉快,73!
 
 ## E-mail:eboywit@gmail.com
-## Page: https://xanggiyan.me/about/
+## Page: [xanggiyan.me](https://xanggiyan.me/about/)
 
 > ## DE **BG2DGX**,My name is Xanggiyan,
 > ## QTH Harbin,Heilongjiang,China /Grid Square PN35gt
