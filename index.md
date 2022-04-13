@@ -23,6 +23,9 @@ tags:
 > ## QTH Harbin,Heilongjiang,China /Grid Square PN35gt
 > ## **73**
 
+[QRZ.COM](https://www.qrz.com/lookup/bg2dgx)
+[DMR Radioid.net](https://www.radioid.net/database/view?callsign=BG2DGX)
+
 ######
 
 
